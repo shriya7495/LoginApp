@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "loginapp_stage2",
+    "slug": "snack-3a0116b7-aaf1-4ad0-aca6-0cad50a4d482",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shriya7495.snack-3a0116b7-aaf1-4ad0-aca6-0cad50a4d482"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.shriya7495.snack3a0116b7aaf14ad0aca60cad50a4d482"
+    }
+  }
+}
